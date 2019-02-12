@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"ayu",
+		"Boxy Theme",
+		"Clang Format",
+		"Gitignore",
+		"LaTeX Snippets",
+		"LaTeX-cwl",
+		"LaTeXTools",
+		"Package Control",
+		"SideBarEnhancements"
+	]
+}

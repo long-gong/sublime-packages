@@ -1,0 +1,93 @@
+{
+	"added_words":
+	[
+		"algorithmics",
+		"measurability",
+		"failover",
+		"bursty",
+		"Virtualized",
+		"degenerative",
+		"vertices",
+		"parallelly",
+		"ouroboros",
+		"Lyapunov",
+		"distiguishing",
+		"Borel",
+		"Virtualization",
+		"virtualization",
+		"trie",
+		"Broadword",
+		"broadword",
+		"isometry",
+		"indices",
+		"pseudocode",
+		"Bollinger",
+		"submatching",
+		"",
+		"virtualized"
+	],
+	"always_show_minimap_viewport": true,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex"
+		}
+	],
+	"auto_wrap": true,
+	"auto_wrap_width": 79,
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 1,
+	"caret_extra_top": 1,
+	"caret_extra_width": 1,
+	"caret_style": "blink",
+	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"fade_fold_buttons": true,
+	"font_face": "IBM Plex Mono",
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Latexing",
+		"Markdown",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"indent_to_bracket": true,
+	"line_numbers": true,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"linters":
+	{
+		"annotations":
+		{
+			"errors":
+			[
+				"WHAT?",
+				"OMG!"
+			],
+			"warnings": "TODO, CHANGES, COPY"
+		}
+	},
+	"overlay_scroll_bars": "enabled",
+	"remember_open_files": false,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"spell_check": true,
+	"tab_size": 4,
+	"theme": "Boxy Tomorrow.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
