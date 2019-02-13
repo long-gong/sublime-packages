@@ -2,12 +2,11 @@
 
 ## Dependencies
 
-### Fonts
-
-- Source Code Pro
-- IBM Plex Mono
-
-All fonts can be found and downloaded from [Google Font](https://fonts.google.com/)
+- Fonts
+    - Source Code Pro
+    - IBM Plex Mono
+    All fonts can be found and downloaded from [Google Font](https://fonts.google.com/)
+- [Ghostscript](https://www.ghostscript.com/download/gsdnld.html): required for Windows, if you want to use the customized builder for LaTeXTools 
 
 ## Usage
 
