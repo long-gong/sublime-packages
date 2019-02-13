@@ -15,6 +15,7 @@
   ```bash
   git clone https://github.com/long-gong/sublime-packages.git .
   ```
+- Step 3: Open sublime text again, those packages will be installed automatically.
 
 ## Customization
 
