@@ -24,7 +24,11 @@
 		"Bollinger",
 		"submatching",
 		"",
-		"virtualized"
+		"virtualized",
+		"Facebook",
+		"online",
+		"Netflix",
+		"Hadoop"
 	],
 	"always_show_minimap_viewport": true,
 	"auto_complete_triggers":
@@ -47,9 +51,39 @@
 	"caret_style": "blink",
 	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
 	"dictionary": "Packages/Language - English/en_US.dic",
+	"extra_file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace"
+	],
+	"extra_folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
 	"fade_fold_buttons": true,
 	"font_face": "IBM Plex Mono",
-	"font_size": 11,
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
@@ -88,6 +122,6 @@
 	"show_line_endings": true,
 	"spell_check": true,
 	"tab_size": 4,
-	"theme": "Boxy Tomorrow.sublime-theme",
+	"theme": "ayu-mirage.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
